@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="WinRTCredDump.vcxproj" Id="122b102b-c91f-40a3-821f-74b27a7c04aa" />
+</Solution>
