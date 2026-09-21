@@ -1,1 +1,1 @@
-# WinRTCredDump
+dumps all locally recoverable credentials for the current user without admin rights (Windows Credential Manager entries, Windows Vault contents, DPAPI credential file metadata, and decrypted Firefox saved passwords).
